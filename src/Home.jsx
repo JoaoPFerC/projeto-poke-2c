@@ -9,6 +9,8 @@ const Home = () => {
     return (
         <div>
             <PokeGrid /> 
+            <PokeFlex /> 
+            <PokeGrid /> 
             <PokeFlex />   
         </div>
     )
